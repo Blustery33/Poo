@@ -14,4 +14,3 @@ $bike->setCurrentSpeed(10);
 $car = new Car('blue','2','Electric');
 
 var_dump($bike->switchOn());
-var_dump($car->switchOn());
